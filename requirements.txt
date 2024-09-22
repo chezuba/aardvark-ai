@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+azure-identity
+azure-cognitiveservices-speech
+azure-search-documents
+
